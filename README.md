@@ -25,6 +25,9 @@
 * Analyse photos from your device, and classifies them and appends them in separate folders: cute animals, traveling, food, political, 
 (same dimension picture, 
 
+* Analyse website copywriting / blog posts and classify it :   
+medium.com /
+
 
 ### User interactivity / input :
 * No user input in Tableau !! => make predefined profile, or find an extension.

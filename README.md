@@ -23,10 +23,13 @@
 (Tweeter API is $100/month !!)
 
 * Analyse photos from your device, and classifies them and appends them in separate folders: cute animals, traveling, food, political, 
-(same dimension picture, 
+(same dimension picture, find training pictures (a lot) )
 
 * Analyse website copywriting / blog posts and classify it :   
 medium.com /
+
+* Whisky recommender: according to whiskey description and favorite whisky recommend other whiskeys.  
+* Cocktail recommender : according to fruit, alcohol, soft, garnish, sour/sweet
 
 
 ### User interactivity / input :

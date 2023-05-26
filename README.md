@@ -42,7 +42,9 @@ medium.com / mashable / techcrunch / gizmodo / huffpost (choose one ?)
 
 ## Level 3 :
 ### Analyse photos from your device, and classifies them and appends them in separate folders: cute animals, traveling, food, political, 
-(same dimension picture, find training pictures (a lot) )
+(same dimension picture, find training pictures (a lot) )  
+
+https://blog.hubspot.fr/marketing/instagram-api
 
 
 

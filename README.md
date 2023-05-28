@@ -1,10 +1,27 @@
 # dashboard-project-DAFT410
 
-*None can ignore the importance of preserving the natural ecosystems that support our civilisation anymore. The dynamic dashboard will help better guide political, personal and business decisions. Complete with links to sources,  the dashboard will bring undeniable information about one's lifestyle and choices and how they impact us all. Dispelling myths and allowing one to balance their lifestyle to minimize their impact all the while maintaining comfort and convenience.*  
+*Mixology is defined as "the skills to mix cocktails and drinks". My proposed algorythm recommends to users one or more cocktail recipe according to the ingredients you like, and those you have in your home. From there on, the user will acquier a deeper comprehension and can evolve into more complexe cocktails!*  
 
-## Find interesting datasets and deduce what kind of prediction you want to output.  
+## Cocktail recommender : according to fruit, alcohol, soft, garnish, sour/sweet. 
+Best version = https://www.cocktailbuilder.com/  
 
-## Find which field I'd like work in (or passion/interest) and orient my project towards that.
+
+HOW TO LINKS:  
+- https://medium.com/@AI_Whisperer/how-i-made-a-cocktail-recommendation-app-using-machine-learning-with-python-streamlit-airtable-9e60dc054dc (project)  
+- https://github.com/luongtruong77/nlp-drinks-cocktails-recommender (github)  
+- https://github.com/luongtruong77/nlp-drinks-cocktails-recommender/tree/main/notebooks (notebooks)  
+- https://lvngd.com/blog/building-cocktail-recommender-python/  
+
+EXISTING DATASET :  
+- https://www.kaggle.com/datasets/shuyangli94/cocktails-hotaling-co (cocktail recipde dataset - 600 cocktails)  
+
+TO WEB SCRAPP :  
+- https://www.drinklab.org/cocktail-recipes/  (cocktail recipde sebwite - 10 000 cocktails)
+
+Concat both dataset, dropping redundant ?  
+Keep just the 10 000 recipes dataset.  
+
+
 
 ### Find a machine learning aspect to the project to validate RNCP  
 #### Recommender = Clusters
@@ -41,15 +58,6 @@ LINKS :
 - https://www.kaggle.com/datasets/koki25ando/22000-scotch-whisky-reviews  
 - https://betterprogramming.pub/scraping-whiskey-review-data-to-build-a-recommendation-system-af6b82f31301  
 - https://www.kaggle.com/code/koheimuramatsu/whiskey-reviews-eda-recommendation-using-bert/notebook (recommender project using BERT language model for NLP)
-
-
-### Cocktail recommender : according to fruit, alcohol, soft, garnish, sour/sweet. 
-LINKS:  
-- https://medium.com/@AI_Whisperer/how-i-made-a-cocktail-recommendation-app-using-machine-learning-with-python-streamlit-airtable-9e60dc054dc (project)  
-- https://www.kaggle.com/datasets/shuyangli94/cocktails-hotaling-co (cocktail recipde dataset - 600 cocktails)  
-- https://github.com/luongtruong77/nlp-drinks-cocktails-recommender (github)  
-- https://lvngd.com/blog/building-cocktail-recommender-python/  
-
 
 
 ### TV Show - Drink pairing recommender : accordin to mood of the show, recommend a drink  

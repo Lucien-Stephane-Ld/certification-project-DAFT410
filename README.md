@@ -10,7 +10,7 @@ HOW TO LINKS:
 - https://medium.com/@AI_Whisperer/how-i-made-a-cocktail-recommendation-app-using-machine-learning-with-python-streamlit-airtable-9e60dc054dc (project)  
 - https://github.com/luongtruong77/nlp-drinks-cocktails-recommender (github)  
 - https://github.com/luongtruong77/nlp-drinks-cocktails-recommender/tree/main/notebooks (notebooks)  
-- https://lvngd.com/blog/building-cocktail-recommender-python/  
+- https://lvngd.com/blog/building-cocktail-recommender-python/ (using node graph)
 
 EXISTING DATASET :  
 - https://www.kaggle.com/datasets/shuyangli94/cocktails-hotaling-co (cocktail recipde dataset - 600 cocktails)  

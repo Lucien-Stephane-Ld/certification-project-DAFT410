@@ -21,33 +21,22 @@ TO WEB SCRAPP :
 Concat both dataset, dropping redundant ?  
 Keep just the 10 000 recipes dataset.  
 
+### Pipeline:  
+* ETL data
+* Build recommender using :  KNNeighbors ? Graph ?
+* Manage user input :  make a list of ingredients to select from ?
+* Manage output : what appears & what format.  
+* Integrate into Streamlit  
 
 
-### Find a machine learning aspect to the project to validate RNCP  
+
 #### Recommender = Clusters
 #### Classifier = categories
 #### Score/Number output = Regression
 
 
 
-## Find what prediction I want to ouput:  
-*create custom values/parameters from which the user can chose*  
-* recommends a diet and/or lifestyle change
-* Calculates & return *"how many Earths would humanity need if everybody lived like that"*  
-(your lifestyle footprint per year * how many people on Earth / Earth's resources per year)
-* Given diet & lifestyle, predict what age you're likely to pass.  
-* Calculate the impact of your lifestyle:  
-- Predicter/Recommender
-- Interactive dashboard
-- CO2 impact & other
-  - Transportation
-  - Nutrition
-  - Consumer habits
-- Nutrition Facts per food type
-- Transportation
-* Given the nature of tweets, are they positive or negative; Have new tweets come in and be classified (per political spectrum, are they fake, are they hateful, the offensiveness of their content)  
-(Tweeter API is $100/month !!)
-
+____________________________________________________________________________________________________________________________________________
 
 ## Level 1 :
 ### Whisky recommender: according to whiskey description and favorite whisky recommend other whiskeys. => recommend new whiskeys only ?

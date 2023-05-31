@@ -5,7 +5,9 @@
 ## Cocktail recommender : according to available ingredients. 
 Best version = https://www.cocktailbuilder.com/  
 
-
+PRESENTATION:  
+https://www.youtube.com/watch?v=oavMtUWDBTM
+ 
 HOW TO LINKS:  
 - https://medium.com/@AI_Whisperer/how-i-made-a-cocktail-recommendation-app-using-machine-learning-with-python-streamlit-airtable-9e60dc054dc (project)  
 - https://github.com/luongtruong77/nlp-drinks-cocktails-recommender (github)  

@@ -246,12 +246,14 @@ ORDER BY ingredient_count DESC;
 /** -------------------------------------------------**/
 /** Selecting specific cocktails **/
 
-select * from cocktails_id where cocktail='Vodkatini';
+select * from cocktails_id where cocktail='Apples and Oranges Martini';
 
 SELECT c.recipe, c.cocktail AS cocktail_name, i.ingredients, ci.ingredient_id, ci.quantity
 FROM cocktails_id c
 JOIN cocktails_ingredients_ids ci ON c.cocktail_id = ci.cocktail_id
 JOIN ingredients_id i ON ci.ingredient_id = i.ingredient_id
-WHERE c.cocktail_id = '4455';
+WHERE c.cocktail_id = '4609';
+
+select * from cocktail_nutrient where name='Apples and Oranges Martini';
 
 

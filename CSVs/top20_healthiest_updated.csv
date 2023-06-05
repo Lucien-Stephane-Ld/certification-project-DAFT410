@@ -1,0 +1,486 @@
+cocktail_id,name,sugar,calories
+1722,"Cherry Fizz Cocktail",0.4g,140kcal
+2281,Fifty-Fifty,0.01g,141kcal
+2519,"Gin Cocktail",0.2g,199kcal
+2696,"Hot buttered rum",0.2g,174kcal
+2697,"Hot Totty Cocktail",0.2g,578kcal
+2941,"The Joker Cocktail",0.1g,209kcal
+3425,"Martini Milano",0.004g,154kcal
+4465,"VNQ Cocktail",0.2g,259kcal
+4470,"Vodka Jello Shots",0.4g,29kcal
+22,"Bourbon Sloe Gin Fizz",1g,198kcal
+409,"Bullfrog 2",1g,3kcal
+709,"Bellini Glow Cocktail",1g,28kcal
+1721,"Caribou Martini",0.5g,186kcal
+2221,"Mason Jar Aperol Spritz",1g,126kcal
+2301,"Gin and Tonic",1g,136kcal
+2516,"Gimlet 2",1g,67kcal
+2521,Gimlet,1g,131kcal
+2943,"The Jewel",0.5g,371kcal
+3526,"Red Light, Green Light – Squid Game Shot",1g,10kcal
+3608,Penicillin,1g,169kcal
+4246,"Stoli-Bolli Cocktail",1g,141kcal
+4279,"Tiffany`s Wet and Ready",1g,103kcal
+4426,"Vieux Carre",1g,203kcal
+4466,"Viniq Vixen",1g,393kcal
+4508,"Wet Kiss",1g,6kcal
+4611,"Allied Requirements",1g,126kcal
+4612,"Absent Friend",1g,106kcal
+4617,"American Flyer Cocktail",1g,109kcal
+4629,"A-List Ruby Cocktail",1g,333kcal
+4631,"A-List Cocktail",0.5g,435kcal
+4675,"Aperol Spritz",1g,173kcal
+4894,"Articuno Pokemon Cocktail",1g,51kcal
+675,"Brandy Crusta",2g,166kcal
+692,"Blizzard Cocktail",2g,149kcal
+913,"Corpse Reviver",2g,166kcal
+1708,"Christmas Martini",2g,210kcal
+1736,"Dark ‘n Stormy",2g,141kcal
+2280,Farthingale,2g,1062kcal
+2691,"Hilgert Cocktail",2g,97kcal
+3459,"Brockmans Summer Negroni",2g,229kcal
+3786,"Pisco Sour",2g,21kcal
+3839,"Pink Lady Cocktail",2g,119kcal
+3990,"Raspiroska Cocktail",2g,82kcal
+4018,"Ten Spot Cocktail",2g,141kcal
+4254,"Shimmer Snap Shot",2g,281kcal
+674,Boomerang,3g,160kcal
+1717,"Catwoman Cocktail",3g,57kcal
+2276,"Froth Blower Cocktail",3g,196kcal
+2310,"Gingerbread martini",3g,604kcal
+2825,"Jello Shots in Oranges",3g,161kcal
+3605,"Paper Plane",3g,204kcal
+3845,"Peking Cocktail",3g,155kcal
+4251,"A Dixon Thing",3g,169kcal
+4362,"A Little Dick`ll Do",3g,160kcal
+4471,"Whiskey Sour",3g,158kcal
+4559,"414SS Daiquiri",3g,1552kcal
+4607,"Amer Picon Cocktail",3g,198kcal
+4642,"Mason Jar Bloody Mary",3g,148kcal
+4788,"Bombay Bellini",3g,140kcal
+370,"Bourbon Old-Fashioned",4g,161kcal
+688,"Betsy Ross Cocktail",4g,215kcal
+1391,"Champagne Cocktail",4g,26kcal
+1729,"Carnival Punch",4g,16kcal
+1980,"Halloween Eyeball Jello Shots",4g,1240kcal
+2515,Gibson,4g,124kcal
+2813,"Ice Pick Cocktail",4g,83kcal
+2942,"Jungle Juice",4g,120kcal
+3601,"Old Fashioned Cocktail",4g,157kcal
+3609,Paloma,4g,151kcal
+3842,"Pepper Bloody Mary",4g,169kcal
+4270,"Tropical Glam Cocktail",4g,447kcal
+4417,"A Nap at Charlie`s",4g,33kcal
+4561,".50 Caliber",4g,419kcal
+4568,7,4g,228kcal
+4872,"Aperol Schuhmann",4g,120kcal
+438,"Brandy Fizz",5g,186kcal
+696,"Batman Vs Superman False God Cocktail",5g,184kcal
+718,"Tropical Coconut Mojito Recipe",5g,156kcal
+1964,"Dazzler Cocktail",5g,367kcal
+2277,"Florida Cocktail",5g,87kcal
+2529,"Grand Apple Cocktail",5g,149kcal
+2699,"Haymitch's Grassy Knoll Cocktail",5g,122kcal
+3527,"Oh Il-nam – Squid Game Cocktail",5g,210kcal
+4373,"A Little Dinghy",5g,223kcal
+4458,"Vampire`s Kiss Cocktail",5g,162kcal
+4583,"A. J.",5g,149kcal
+4620,"American Grog Cocktail",5g,125kcal
+4624,"Americano Cocktail",5g,174kcal
+4637,"Mint Julep",5g,156kcal
+4783,"Airedale Cocktail",5g,232kcal
+715,"Brainstorm Cocktail",6g,207kcal
+1702,Cosmobellini,6g,130kcal
+1728,"Calpol Cocktail",6g,385kcal
+1963,"Dirty Shirley Cocktail",6g,400kcal
+1974,"Elderflower and gin soda",6g,125kcal
+2307,"Green Ghost Cocktail",6g,186kcal
+3025,"Kryptonite Shots",6g,160kcal
+3310,"Aperol Sour",6g,143kcal
+3529,"Orange spritzer",6g,153kcal
+3610,"Pina Colada",6g,292kcal
+4000,"Royal Clover Club Cocktail",6g,149kcal
+4007,"Ruby Drop Cocktail",6g,351kcal
+4021,"Sylveon Pokemon Cocktail",6g,294kcal
+4248,"Stinger Cocktail",6g,123kcal
+4255,"Star Wars Cocktail",6g,191kcal
+4400,"The Tracker Jackers Sting Cocktail",6g,136kcal
+4402,"Tracker Jacker Cocktail",6g,144kcal
+4425,"Under Current Cocktail",6g,116kcal
+4549,"2000 Flushes",6g,112kcal
+4562,"A True Amaretto Sour",6g,126kcal
+4630,"All eyes Cocktail",6g,409kcal
+686,"Born on the 4th of July Cocktail",7g,196kcal
+689,"Blue Monday Cocktail",7g,166kcal
+2039,"Effie Trinkets Pink Drink",7g,286kcal
+2948,"Jedi Knight Cocktail",7g,212kcal
+3443,"Moscow Mule Cocktail",7g,163kcal
+3523,"New York Cocktail",7g,164kcal
+4094,Sidecar,7g,168kcal
+4252,"Shimmertini Cocktail",7g,376kcal
+4428,"A Midsummernights Dream",7g,241kcal
+4461,"Vodka Cranberry Cocktail",7g,96kcal
+4619,"American Pie Cocktail",7g,187kcal
+4636,"Aviation Cocktail",7g,176kcal
+4641,"Mason Jar Berry Mint Gin Smash",7g,140kcal
+4646,"THE BEST BLOODY MARY",7g,169kcal
+697,"The Boy Wonder Cocktail",8g,159kcal
+700,"The Bruce Wayne Cocktail",8g,42kcal
+2279,"Fruit Blast Martini Cocktail",8g,165kcal
+2293,"French 77 Cocktail",8g,249kcal
+2520,"Gin Gin",8g,89kcal
+2545,"Hunch Punch Cocktail",8g,77kcal
+2702,"Han Solo Cocktail",8g,306kcal
+3174,"MEXICAN BULLDOG (CORONITA MARGARITA)",8g,217kcal
+3457,"Neverending Story",8g,216kcal
+4005,"Ruby Sunrise Cocktail",8g,395kcal
+4206,"A Brain Teaser",8g,209kcal
+4640,"Mason Jar Blueberry Mojito",8g,129kcal
+687,"Blaze of Glory Cocktail",9g,188kcal
+721,CAIPIRINHA,9g,196kcal
+1961,"District 12 - Decadence Cocktail",9g,78kcal
+2698,"Haymitchs Hooch cocktail",9g,210kcal
+2949,"The Jedi Cocktail",9g,174kcal
+3026,"Katniss's Cherry Kiss Cocktail",9g,107kcal
+3856,"Peat Smash Cocktail",9g,161kcal
+4002,"Remembering Rue Cocktail",9g,105kcal
+4022,"Squirtle Pokemon Cocktail",9g,177kcal
+4256,"Stormtrooper Cocktail",9g,335kcal
+4271,"Tsunami Cocktail",9g,145kcal
+4394,"The Alfred Cocktail",9g,42kcal
+4464,"Viniq Cosmo Cocktail",9g,444kcal
+4524,"Whiskey Sour Cocktail",9g,197kcal
+4531,"Winter is coming cocktail",9g,96kcal
+4605,"Absinthe Minded Martini",9g,290kcal
+4608,"Angels Delight",9g,439kcal
+0,"American Beauty Cocktail",10g,185kcal
+702,"Black Mamba Cocktail",10g,167kcal
+1719,"Citron Gimlet Cocktail",10g,181kcal
+2306,"Gin Gin Mule",10g,148kcal
+2531,"Glow Rita Cocktail",10g,382kcal
+2708,"HARD GINGER ALE",10g,106kcal
+2710,"Seamstress Irish Coffee",10g,260kcal
+3028,"Kingslayer Cocktail",10g,182kcal
+3034,"Long Island Iced Tea",10g,356kcal
+3193,"Midori Splice Cocktail",10g,239kcal
+3447,"Mimosa Cocktail",10g,159kcal
+4006,"Ruby Shimmer Cocktail",10g,339kcal
+4010,"Spicy Tajin Margarita",10g,147kcal
+4258,"Spice On Ice Cocktail",10g,166kcal
+4419,"(PINEAPPLE) UPSIDE DOWN",10g,237kcal
+4429,"Vaporeon Pokemon Cocktail",10g,269kcal
+4463,"Volcano Cocktail",10g,181kcal
+4574,"7 on 7",10g,244kcal
+710,"Black Opal Drink Cocktail",11g,196kcal
+719,"Caribbean Old Fashioned",11g,118kcal
+1715,"Chocolate Soldier Cocktail",11g,263kcal
+1725,"Chewbacca Cocktail",11g,814kcal
+2285,"Frosty Night Cocktail",11g,229kcal
+2290,"French 75 Cocktail",11g,204kcal
+2518,"Gin Cobbler",11g,167kcal
+2528,"Grateful Dead cocktail",11g,361kcal
+2709,"Mason Jar Iced Irish Coffee",11g,210kcal
+2816,"Irish Car Bomb",11g,189kcal
+4009,"South Side Cocktail",11g,108kcal
+4462,"A Night In Old Mandalay",11g,180kcal
+4537,"Zombie Cocktail",11g,250kcal
+4556,"357 Magnum",11g,371kcal
+4579,"8th Birthday",11g,183kcal
+4580,"8-Ounce Twista",11g,196kcal
+4613,"Abbey Cocktail",11g,151kcal
+4633,"Aqua Velva Cocktail",11g,221kcal
+672,"Bronx Cocktail",12g,150kcal
+725,"Summer City Spritz",12g,179kcal
+1965,"Darth Vader Cocktail",12g,234kcal
+1972,"EL DIABLO",12g,187kcal
+2299,"Fire Bomb Shot",12g,55kcal
+3031,"LAMINGTON COCKTAIL",12g,277kcal
+3036,"Leafeon Pokemon",12g,166kcal
+3169,"Lemon Drop Cocktail",12g,175kcal
+3192,"Mistletoe Martini Cocktail",12g,152kcal
+3606,"Pornstar Martini (Variation)",12g,156kcal
+3993,"Ruby Skye Cocktail",12g,188kcal
+4003,"Rooted in Survival Cocktail",12g,227kcal
+4031,"Sex on the Beach Cocktail",12g,117kcal
+4244,"Sea Breeze Cocktail",12g,184kcal
+4495,"A Roa",12g,124kcal
+4618,"American Glory Cocktail",12g,127kcal
+4638,"Bee’s Knees Cocktail",12g,179kcal
+4651,"Bullfrog Cocktail",12g,366kcal
+4664,"Adios Motherf*cker Cocktail",12g,210kcal
+95,"Bellini 3",13g,128kcal
+546,"Blue Long Island",13g,382kcal
+724,"White Christmas sangria",13g,154kcal
+1981,"Evening Accessory Cocktail",13g,320kcal
+2517,"Green Devil",13g,204kcal
+2947,"Jedi Mind Trip Cocktail",13g,129kcal
+3424,"Maraschino Gin",13g,283kcal
+3440,"Malibu Bay Breeze Cocktail",13g,165kcal
+3448,"The Mockingjay Cocktail",13g,178kcal
+3452,"Mustafar Cocktail",13g,146kcal
+3524,"Nightlocks Nemesis Cocktail",13g,207kcal
+3840,"Poison Ivy Cocktail",13g,228kcal
+3841,"Pina Colada Cocktail",13g,255kcal
+3995,"Red Death Cocktail",13g,227kcal
+4229,"A Crow Left of the Murder",13g,65kcal
+4317,"A Furlong Too Late",13g,178kcal
+4409,"Tom Collins Cocktail",13g,182kcal
+4467,"Vodka Slime Cocktail",13g,122kcal
+4475,"White Russian",13g,232kcal
+4560,"42 Flying Mules",13g,155kcal
+4616,"All American Cocktail",13g,107kcal
+4724,"Burt Reynolds Cocktail",13g,290kcal
+4726,"Bay Breeze Cocktail",13g,193kcal
+691,"Baileys White Russian Cocktail",14g,369kcal
+694,"Black Magic Cocktail",14g,196kcal
+695,"Black Russian Cocktail",14g,229kcal
+756,"Adios Mother",14g,324kcal
+773,"Cactus Cooler Cocktail",14g,148kcal
+1707,"Coco Channel",14g,367kcal
+1724,"Chocotini Cocktail",14g,166kcal
+1731,"Cherry Ripe Cocktail",14g,372kcal
+2954,"Kahlua Mudslide Cocktail",14g,259kcal
+3423,"Melon Cocktail",14g,203kcal
+3846,"Peach Fizz Cocktail",14g,182kcal
+4001,"Red Berry Sling Cocktail",14g,160kcal
+4047,"Shamrock Juice",14g,524kcal
+4406,"A Night At Naughty Nikkis",14g,127kcal
+4420,"U-Boat Beer Cocktail",14g,334kcal
+4545,"151 Reasons",14g,112kcal
+4572,"73 Bus",14g,178kcal
+4627,"Aggravation Cocktail",14g,224kcal
+96,"Bellini Cocktail",15g,146kcal
+716,"Bloody Smurf Jizz Cocktail",15g,129kcal
+1973,"Enzoni Cocktail",15g,201kcal
+2537,"Classic Hot Toddy",15g,961kcal
+2956,"Raspberry kiss",15g,119kcal
+3032,"Last Word",15g,187kcal
+4245,"Strip-tease Cocktail",15g,295kcal
+4247,"San Remo Cocktail",15g,190kcal
+4260,"Spumoni Cocktail",15g,96kcal
+4395,"A Monkey`s Rum Martini",15g,327kcal
+4399,"Tequila Sunrise Cocktail",15g,148kcal
+4571,"73 Bus 2",15g,304kcal
+707,"Blue Pixie Stick Cocktail",16g,229kcal
+1733,Daiquiri,16g,193kcal
+2043,"Gin Fizz",16g,178kcal
+2294,"Foxface's Poison Cocktail",16g,208kcal
+2296,"The Force Cocktail",16g,169kcal
+2304,"Groovy Gimlet",16g,193kcal
+2308,"Gin Bramble",16g,186kcal
+2694,"Hazelnut Mudslide Cocktail",16g,301kcal
+2945,"Jedi Mind Trick Cocktail",16g,297kcal
+2951,"Japanese Sex Cocktail",16g,248kcal
+3455,"Easy Mojito Cocktail",16g,201kcal
+3602,"Oreo Cookie Shot",16g,297kcal
+3607,"Pineapple Upside Down Cake",16g,222kcal
+3852,"PayDay Cocktail",16g,524kcal
+4259,"Strawberry Swirl Cocktail",16g,249kcal
+4430,"Vodka infused Watermelon",16g,75kcal
+4443,"Vodka Salty Dog",16g,163kcal
+4472,"White Lady",16g,194kcal
+4528,"A Sunny Delight",16g,339kcal
+4535,"Yoda Swamp Mojito",16g,272kcal
+4546,"17 Twist",16g,196kcal
+4585,"A-Towns Finest",16g,162kcal
+4625,"After Dinner Mint Cocktail",16g,166kcal
+673,"Bacardi Yeah Martini Cocktail",17g,179kcal
+1732,"Demogorgon cocktail",17g,254kcal
+1955,"Dulce Maria Cocktail",17g,314kcal
+1971,"Eastside Cocktail",17g,211kcal
+2286,"Fucking Awesome Cocktail",17g,359kcal
+2826,"Jedi Lightsaber cocktail",17g,380kcal
+3430,"Mojo Jojo Cocktail",17g,176kcal
+3844,"Poinsettia Champagne Cocktail",17g,176kcal
+3866,"THE RASPBERRY XXX",17g,271kcal
+4004,"Rum Runner Cocktail",17g,331kcal
+4243,"Snowball Cocktail 2",17g,145kcal
+4284,"A Goodnight Kiss",17g,181kcal
+4403,"The Strawberry Capitol Cocktail",17g,223kcal
+4526,"Watermelon Jolly Rancher Cocktail",17g,256kcal
+4582,"A. F. Tini",17g,194kcal
+4634,"Amaretto Sour Classic",17g,225kcal
+1252,"Candy Cane 3",18g,171kcal
+2526,"Ginger Cosmo Cocktail",18g,339kcal
+2707,"Hive Five Mojito",18g,195kcal
+2814,"Iron Butterfly Cocktail",18g,258kcal
+2939,Jasmine,18g,344kcal
+3029,"LIQUID LAMINGTON COCKTAIL",18g,323kcal
+4239,"Saskatchewan Paralyzer",18g,159kcal
+4240,"A Day at the Beach",18g,198kcal
+4440,"A Joy of Almond",18g,203kcal
+4525,"Watermelon Jolly Rancher 2",18g,240kcal
+4591,"Abbi`s Tropical Delight",18g,502kcal
+4639,"Blue Hawaii Cocktail",18g,204kcal
+4652,"Blue Hawaiian Cocktail",18g,291kcal
+708,"Bananarama Cocktail",19g,225kcal
+1726,"The C3PO Cocktail",19g,80kcal
+1975,"Espeon Pokemon Cocktail",19g,214kcal
+3500,"Adios Motherf*cker 3",19g,407kcal
+4484,"A Popular Guy",19g,133kcal
+4539,"A Tropical Dream",19g,321kcal
+1718,"Caipirinha Cocktail",20g,84kcal
+1737,"DigRat Pokemon Cocktail",20g,226kcal
+2532,"Growing Strong Cocktail",20g,245kcal
+3181,"Mandarin Bramble",20g,243kcal
+3613,"Peppermint Patty",20g,402kcal
+3790,"Pineapple Fizz",20g,222kcal
+3837,"Pomegranate Fizz Cocktail",20g,144kcal
+3966,"Radioactive Long Island Iced Tea",20g,494kcal
+4414,"The Sith Cocktail",20g,234kcal
+4416,"Upside Down Martini",20g,244kcal
+4530,"We do not Sow Cocktail",20g,281kcal
+1954,"Desert Shield Cocktail",21g,213kcal
+1977,Eleven,21g,181kcal
+2035,"Emerald Cocktail 4",21g,187kcal
+2530,"The Girl on Fire Cocktail",21g,186kcal
+2704,"Holy Water Cocktail #2",21g,347kcal
+3170,"Little Green Men Cocktail",21g,193kcal
+3603,"Obi Wan Kenobi Cocktail",21g,248kcal
+3612,"Porn Star Martini",21g,244kcal
+3855,"Princess Pleasure Cocktail",21g,283kcal
+3976,"Red Death",21g,239kcal
+4014,Sazerac,21g,370kcal
+4408,"The Tribute Cocktail",21g,196kcal
+4567,"61 Imperial",21g,276kcal
+4622,"American Woman cocktail",21g,215kcal
+4628,"AVATAR cocktail",21g,181kcal
+713,"Blue Bulldog Margarita",22g,1135kcal
+2063,"Fruit Tingle Cocktail Recipe",22g,229kcal
+2940,"Japanese Slipper Cocktail",22g,190kcal
+3454,"Monkey Coffee Cocktail",22g,335kcal
+3999,"Romance Cocktail",22g,324kcal
+4253,"Shimmerita Cocktail",22g,476kcal
+4393,"Tiki Tea Cocktail",22g,203kcal
+4438,"Amaretto Sour",22g,223kcal
+4544,136,22g,149kcal
+4557,"4th of July Vodka Jello Shots",22g,216kcal
+1730,"Captain Crunch Shot",23g,359kcal
+1962,"Double Inception Bomb Shot",23g,346kcal
+1970,"The Dark Side Martini",23g,334kcal
+2534,"Grapefruit Crush Mocktail",23g,160kcal
+2536,"Hurricane Cocktail",23g,517kcal
+2818,"Jungle Bird",23g,261kcal
+3446,"Melon Mimosa",23g,258kcal
+4262,"A Big Pink Dink",23g,234kcal
+4273,"A Fuzzy Thing",23g,333kcal
+4529,"Wookie Juice Cocktail",23g,556kcal
+4564,"5th Avenue",23g,388kcal
+2291,"Fire Starter Cocktail 2",24g,356kcal
+2527,"Grinch Cocktail",24g,168kcal
+3451,"Master Yoda Cocktail",24g,226kcal
+4218,"A Curious Feeling",24g,385kcal
+4295,"A Gilligan`s Island",24g,224kcal
+4476,"Wet Pussy Cocktail",24g,871kcal
+4538,"Zombitini Cocktail",24g,373kcal
+4577,"80s Wine Cooler",24g,189kcal
+705,"Blue Skies Cocktail",25g,208kcal
+1111,"Aviation Gin Riblet",25g,255kcal
+2705,"Holy Water Cocktail",25g,210kcal
+3860,"Qui Gon Gin Cocktail",25g,231kcal
+4249,"Strawberry Sombrero Cocktail",25g,176kcal
+4257,"Slow Comfortable Screw Cocktail",25g,295kcal
+4272,"Tropical Oasis Cocktail",25g,421kcal
+4421,"Umbreon Pokemon Cocktail",25g,216kcal
+4468,"Vodka Redbull - Vodka and Redbull",25g,246kcal
+4575,"80s Berry Wine Cooler",25g,188kcal
+4576,"80s Orange Wine Cooler",25g,195kcal
+676,"Butterfinger Cocktail",26g,283kcal
+1747,"Dark Pussy",26g,276kcal
+2827,"Jager Bomb Shot Recipe",26g,155kcal
+2834,"Jolly Rancher",26g,193kcal
+3441,"Mai Tai Cocktail",26g,274kcal
+4460,"Virgin Strawberry Daiquiri",26g,138kcal
+4473,"A Pimp Named Slickback",26g,693kcal
+4548,"100 Miles per Hour",26g,333kcal
+4570,7-Nut,26g,199kcal
+4645,"Boom Boom Lemon Cocktail",26g,225kcal
+2287,"Fuzzy Navel Cocktail",27g,257kcal
+2288,"French Martini",27g,231kcal
+2297,"Flaming Lamborghini",27g,352kcal
+2706,"Hear Me Roar Cocktail",27g,158kcal
+3991,"Red Rudolph Cocktail",27g,195kcal
+3998,"Red Hot Santa Tini",27g,449kcal
+4656,"Bulbasaur Pokemon Cocktail",27g,205kcal
+704,"Blue Goose Cocktail",28g,287kcal
+722,"Colt 45",28g,282kcal
+1716,"Candy Cane Cocktail",28g,261kcal
+2292,"Firestarter Cocktail",28g,297kcal
+3179,"Mason Jar Spiked Lemonade",28g,247kcal
+4578,"80`s Peach Wine Cooler",28g,198kcal
+4581,"A Walk on the Moon",28g,298kcal
+698,"Black Paloma Cocktail",29g,348kcal
+1720,"Christmas Cookie Cocktail",29g,296kcal
+1969,"Darth Maultini",29g,388kcal
+2046,"Flareon Pokemon Cocktail",29g,160kcal
+2543,"Hand Grenade Cocktail",29g,548kcal
+2819,"Jolteon Pokemon Cocktail",29g,231kcal
+3449,"Mockingjay Smash Cocktail",29g,315kcal
+3992,"Russian Qualude Cocktail",29g,461kcal
+4623,"American Leroy Cocktail",29g,361kcal
+1573,"Classic Amaretto Sour",30g,281kcal
+1976,"Eevee Pokemon Cocktail",30g,321kcal
+2295,"Floating Yoda Cocktail",30g,414kcal
+3038,"Leg Spreader (Nice) Cocktail Recipe",30g,268kcal
+4418,"U.S.S. BUTTERSCOTCH SHAKE",30g,294kcal
+4469,"Venom Cocktail",30g,293kcal
+1968,"Darth's Cherry Fairy Cocktail",31g,255kcal
+3531,"Ocean Breeze Cocktail",31g,294kcal
+3838,"Pom Pom Cocktail",31g,479kcal
+4457,"Vanilla Creamsicle Cocktail",31g,313kcal
+2695,"Harlem Nights Cocktail",32g,591kcal
+2950,"Jolly Rancher Cocktail",32g,304kcal
+3172,"Midori Illusion Cocktail Recipe",32g,264kcal
+3458,"Nutella and Baileys martini",32g,528kcal
+4587,A-Bomb,32g,357kcal
+2312,"Glaceon Pokemon Cocktail",33g,334kcal
+3628,"Purple Wet Dream",33g,264kcal
+4534,"Yoda Poop Cocktail",33g,440kcal
+2703,"Harrison Ford Cocktail",34g,575kcal
+2713,"Irish Trash Can Cocktail",34g,349kcal
+3030,"LAMINGTON COCKTAIL 2",34g,342kcal
+4011,"Mason Jar Summer Sangria",34g,394kcal
+4551,"A Saturday Afternoon",34g,368kcal
+4565,"6am Sunrise",35g,322kcal
+3525,"Nutella Cocktail",36g,358kcal
+4340,"A Kiss Goodnight",36g,301kcal
+699,"Banana Monkey Cocktail",37g,351kcal
+3450,"Midori Sour Cocktail",37g,186kcal
+3035,"Liquid Marijuana Cocktail",38g,312kcal
+3848,"The Panem-anian Soother",38g,1136kcal
+4569,"7 Coconuts",38g,299kcal
+4329,"A Kissed Buttery Nipple",39g,464kcal
+4384,"A Bitter Canadian",39g,290kcal
+4427,"Vegas Bomb Shot",39g,224kcal
+4517,"A Southern Screw",41g,418kcal
+4586,"A1 Cocktail",41g,557kcal
+677,"Butterfinger Cocktail #2",42g,300kcal
+1966,"Death Star Cocktail",42g,421kcal
+4351,"A Lark`s Tropical Heaven",42g,344kcal
+3453,"Midori Lemonade",43g,219kcal
+4306,"A Few Of My Favorite Things",43g,532kcal
+3604,"Ours is the Fury Cocktail",44g,273kcal
+2298,"Family Duty Honor Cocktail",45g,263kcal
+693,"Blood Orange Cosmopolitan Cocktail",46g,740kcal
+3178,"Mason Jar Margarita",47g,302kcal
+4269,"Toblerone Cocktail Recipe",55g,504kcal
+3173,"Miami Vice Cocktail",62g,500kcal
+4563,"57 Chevy",62g,686kcal
+4554,"3 Fingers of Ron Burgundy",66g,391kcal
+4573,"A Very Berry Surprise",66g,774kcal
+4584,A-Rang-A-Tang,69g,440kcal
+1960,"District 12 Punch Cocktail",70g,356kcal
+4032,"Strawberry Margarita Jello Shots",70g,1058kcal
+1748,"Dickheads Delight",72g,741kcal
+2275,"Fans Cocktail",76g,1096kcal
+727,"Charmander Pokemon Cocktail",77g,620kcal
+4506,"A Short Trip To Hell",78g,641kcal
+4644,"Blueberry Infused Vodka Lemonade ",79g,1529kcal
+4552,"209 East Cocktail",80g,1099kcal
+3171,"Long Island Iced Tea infused Watermelon",96g,968kcal
+2817,"Liquid Marijuana Jungle Juice",97g,648kcal
+3442,"Mae West Martini",117g,998kcal
+1727,"Chocolate Sin Cocktail",151g,1511kcal
+4609,"Apples and Oranges Martini",165g,2036kcal
+4555,"3 for a Dollar Special",194g,1525kcal
+4242,"Sugar Syrup Cocktail Recipe",250g,952kcal

@@ -42,7 +42,6 @@ LIMIT 20;
 /**---------------------------------------------------------------------------------------------------------------------**/
 /** Select the top 20 healthiest cocktails **/
 
-
 CREATE TABLE IF NOT EXISTS healthiest_cocktail (
 	cocktail_id INT,
     name VARCHAR(50),
@@ -146,16 +145,18 @@ FROM ingredients_id
 UNION ALL
 SELECT 'Chocolate' AS ingredient, COUNT(CASE WHEN ingredients LIKE "%Chocolate%" or "%chocolat%" THEN 1 END) AS occurrence
 FROM ingredients_id
+UNION ALL
+SELECT 'Champagne' AS ingredient, COUNT(CASE WHEN ingredients LIKE "%Champagne%" or "%champagne%" THEN 1 END) AS occurrence
+FROM ingredients_id
 ORDER BY occurrence desc;
 
 
 /**---------------------------------------------------------------------------------------------------------------------**/
-/** Which the most recurring word in the cocktail names ? **/
+/** What type of cocktails have the most variations ? **/
 
 SELECT cocktail_id, cocktail FROM cocktails_id;
 
 SELECT DISTINCT cocktail FROM cocktails_id;
-
 
 SELECT 'Martini Cocktails' AS cocktail, COUNT(CASE WHEN cocktail LIKE "%Martini%" or "%martini%" THEN 1 END) AS occurrence
 FROM cocktails_id
@@ -256,4 +257,8 @@ WHERE c.cocktail_id = '4609';
 
 select * from cocktail_nutrient where name='Apples and Oranges Martini';
 
+/** -------------------------------------------------**/
+/** Which words are most used in cocktail titles (except the word 'cocktail' itself) **/
 
+select * from cocktail_word_use
+limit 50;

@@ -1,0 +1,988 @@
+,ingredient_id,ingredients
+0,0,
+1,1,Iced Tea
+2,2,Italian Amaro
+3,3,Simple Syrup
+4,4,Triple Sec
+5,5,Scotch Liqueur
+6,6,Blue Raspberry mix
+7,7,Vanilla Vodka
+8,8,Chocolate Chips
+9,9,Sparkling Wine
+10,10,Sage Leaves
+11,11,(15 ml) OP Rum
+12,12,Passionfruit Liqueur
+13,13,Lavender Syrup
+14,14,Blackcurrant Squash
+15,15,Tea
+16,16,Whiskey - or
+17,17,Whipped Cream
+18,18,(43 ml) Dry Gin
+19,19,Agave Syrup
+20,20,Horseradish
+21,21,Lemon - Wedges
+22,22,Bourbon
+23,23,Tequila Liqueur
+24,24,lime
+25,25,Creme de Fraise des Bois
+26,26,Cherry Cola
+27,27,Ice Cream
+28,28,Watermelon Liqueur
+29,29,Gin - or
+30,30,Pimm's No. 1
+31,31,lemon twist - Garnish
+32,32,Milk
+33,33,Chocolate Mint Liqueur
+34,34,mint leaves
+35,35,Raisins
+36,36,Clam Juice
+37,37,Lychee(s)
+38,38,Vanilla Rum
+39,39,Lemon Grass
+40,40,Carrot Juice
+41,41,(52.5 ml) Gin
+42,42,Blood Orange
+43,43,Vanilla Liqueur
+44,44,(14.79 ml) Honey
+45,45,Black Pepper
+46,46,blueberries
+47,47,Daiquiri Mix
+48,48,apple slices
+49,49,Alcohol
+50,50,Vanilla Cream Soda
+51,51,BBQ Sauce
+52,52,Green food colouring
+53,53,Cranberry-Apple Juice
+54,54,Water - Hot / Boiling
+55,55,(1 dash) Chocolate Sauce
+56,56,Cherry Cordial
+57,57,100 proof Vodka
+58,58,(30 ml) Orange Juice
+59,59,Caramel Sauce
+60,60,Pitch Black Soda
+61,61,Tangerine Juice
+62,62,Guavaberry Liqueur
+63,63,Orange(s)
+64,64,(21.26 ml) Coconut Vodka
+65,65,bourbon
+66,66,Lime
+67,67,White Rum
+68,68,Tomato Juice
+69,69,Chocolate Shavings
+70,70,Tangerine Schnapps
+71,71,Blueberry Jello - / Jelly
+72,72,Peach Puree
+73,73,Sour Apple Schanpps
+74,74,Lemon Soda Water
+75,75,Lime Soda
+76,76,Elderflower Liqueur
+77,77,Raspberry Iced Tea
+78,78,Basil Leaves
+79,79,Apricot Nectar
+80,80,Coconut Vodka
+81,81,Passion-Fruit syrup
+82,82,Dry Gin
+83,83,Tonic Water
+84,84,(56.7 ml) Pineapple Juice
+85,85,Banana-Strawberry Juice
+86,86,(30 ml) Blue Curacao Liqueur
+87,87,(56.7 ml) Melon Liqueur
+88,88,(90 ml) Prosecco
+89,89,Pineapple Rum
+90,90,Cider Beer
+91,91,Lemon Liqueur
+92,92,Cocoa Powder
+93,93,Club Soda
+94,94,tequila
+95,95,Brown Sugar
+96,96,Chocolate Vodka
+97,97,Chocolate Almond Liqueur
+98,98,Blackberry Liqueur
+99,99,Caribbean creme
+100,100,Guava Juice
+101,101,Light Rum
+102,102,Tea - Hot
+103,103,(60 ml) Cream
+104,104,Sugar
+105,105,Passion-Fruit Rum
+106,106,Jello
+107,107,Lime Wedges
+108,108,Congnac
+109,109,Cherry Soda
+110,110,Viniq Ruby
+111,111,(30 ml) Tequila
+112,112,Pickle Juice
+113,113,Passion Fruit Liqueur
+114,114,Orange juice
+115,115,Pear Schnapps
+116,116,(28.35 ml) Hazelnut Liqueur
+117,117,Squash
+118,118,(500 ml) Vodka - or
+119,119,Lemon-Lime mix
+120,120,Hot Pepper Sauce
+121,121,Mineral Water
+122,122,Soy Sauce
+123,123,Grape Jello
+124,124,Spicy Hot V8 Juice
+125,125,Guinness Beer
+126,126,Cranberry Liqueur
+127,127,Coffee - Frozen
+128,128,Chili Infused Vodka
+129,129,Crem De Violette
+130,130,Papaya Nectar
+131,131,heavy cream
+132,132,Clementine Juice
+133,133,Lime Cordial
+134,134,Ginger Liqueur
+135,135,Almond Extract
+136,136,Strawberry Syrup
+137,137,Beers
+138,138,(21 ml) Cherry Liqueur
+139,139,Rock Melon
+140,140,Cucumbers
+141,141,Banana Rum
+142,142,Fresh mint
+143,143,Sours
+144,144,Molasses
+145,145,Mango Cordial
+146,146,Strawberry Schnapps
+147,147,Vodak
+148,148,(28.35 ml) Coffee Liqueur
+149,149,tomato juice
+150,150,sugar cube
+151,151,Bloody Mary Mix
+152,152,Vodka - or
+153,153,Cherry cordial
+154,154,Pear Cider
+155,155,Mixed Fruit Liqueur
+156,156,Candy
+157,157,strawberries - chopped
+158,158,Strawberry Cream Liqueur
+159,159,salt
+160,160,lemon peel - Garnish
+161,161,(45 ml) Pineapple Juice
+162,162,Blue Raspberry Cordial
+163,163,Chocolate
+164,164,Sugar - or Sugar Syrup
+165,165,Pernod
+166,166,Orange(s) - Slice
+167,167,(15 ml) Triple Sec
+168,168,101 Whiskey
+169,169,pickle
+170,170,Caraway
+171,171,Sweet and Sour Sauce
+172,172,Passion-Fruit Liqueur
+173,173,Black Cherry Soda
+174,174,(30 ml) Energy Soda - Red Bull
+175,175,Maple Syrup
+176,176,(15 ml) Apricot Brandy
+177,177,Chili Peppers
+178,178,(30 ml) Campari
+179,179,(21.26 ml) Creme de Bananas
+180,180,Ginger Vodka
+181,181,Agave Nectar - or
+182,182,Soda
+183,183,Viniq Original
+184,184,brandy
+185,185,Tajin
+186,186,Kiwi-Strawberry Juice
+187,187,Citrus Juice
+188,188,Peaches
+189,189,straw
+190,190,red wine
+191,191,Lychee Liqueur
+192,192,Cranberry-Grape Juice
+193,193,(414 ml) Hot Water
+194,194,Slice
+195,195,Peppermint Schnapps
+196,196,Blackberries
+197,197,Toffee Liqueur
+198,198,Pepper Soda
+199,199,Carrot
+200,200,strawberries
+201,201,Honey Simple syrup
+202,202,Cherry Schnapps
+203,203,Watermelon Schnapps
+204,204,Whipping Cream
+205,205,Viniq Glow
+206,206,Peach Liqueur
+207,207,Peach(s)
+208,208,(28 ml) Lemon Juice
+209,209,Raspberry Sauce
+210,210,Egg White - Beaten
+211,211,Champagne - (Bollinger)
+212,212,151 Rum - (optional)
+213,213,Cardamom
+214,214,(500 ml) Coconut Rum
+215,215,sour mix
+216,216,Gold rum
+217,217,Grapes
+218,218,Tabasco Sauce
+219,219,Pepper Sauce
+220,220,Cream Liqueur
+221,221,Prosecco
+222,222,Dark Creme De Cacao
+223,223,Egg Yolk
+224,224,Green Curacao Liqueur
+225,225,Mint Leaves
+226,226,(355 ml) Vodka
+227,227,Lychee Juice
+228,228,(113 ml) Ginger Beer
+229,229,Blackberry Schnapps
+230,230,Vanilla Extract
+231,231,Vermouth
+232,232,Sloe Gin
+233,233,Cherry
+234,234,Lemonade
+235,235,Crushed Ice
+236,236,Grapefruit Soda
+237,237,Coconut Juice
+238,238,simple syrup
+239,239,Whiskey
+240,240,Lemon Schnapps
+241,241,Pear Juice
+242,242,Burgundy wine
+243,243,(45 ml) Dark Rum
+244,244,lime juice
+245,245,ginger simple syrup - see recipe below
+246,246,Jager Herbal Liqueur
+247,247,(30 ml) Triple Sec
+248,248,Oregano
+249,249,Bitters
+250,250,Mango(s)
+251,251,Blackcurrant Liqueur
+252,252,(28.35 ml) Irish Cream
+253,253,Cottage Cheese
+254,254,Aged Rum
+255,255,Blackcurrant Soda
+256,256,Cool Blue Raspberry energy drink
+257,257,Orange Juice
+258,258,Tequila
+259,259,Lemon Lime Soda
+260,260,Butter
+261,261,(28 ml) Pineapple Juice
+262,262,Wine
+263,263,White Creme De Menthe
+264,264,Powdered Soft Drink
+265,265,Dry Vermouth
+266,266,(15 ml) Lime Juice
+267,267,Green Ginger Wine
+268,268,Sour Apple Mix
+269,269,Red Rock Candy
+270,270,Honey Liqueur
+271,271,Apple Wine
+272,272,rum - divided
+273,273,(170.1 ml) Milk
+274,274,Vegetable Juice
+275,275,Butterscotch Liqueur
+276,276,Cherry Brandy
+277,277,Champagne
+278,278,Allspice
+279,279,Blueberry Brandy
+280,280,Cognac
+281,281,Raspberry Juice - (or puree)
+282,282,Wormwood Extract
+283,283,Olives
+284,284,Aperol
+285,285,Sweet and Sour Mix
+286,286,orange squash
+287,287,Mango Puree
+288,288,Cherry Syrup
+289,289,(30 ml) Sours
+290,290,triple sec
+291,291,Lime Vodka
+292,292,Light Beer
+293,293,(60 ml) Gin
+294,294,(21 ml) Gin
+295,295,ice
+296,296,Berry
+297,297,Red Port
+298,298,Rye Malt Whiskey
+299,299,Cherry Conserve
+300,300,Soda Water
+301,301,Tabasco sauce
+302,302,Water
+303,303,Peppers
+304,304,(21 ml) Lemon Juice
+305,305,Cucumber
+306,306,Silver Rum
+307,307,Coriander
+308,308,Orange Soda
+309,309,Honey
+310,310,(60 ml) White Rum
+311,311,(2 splashes) Lemonade
+312,312,Lime wedges
+313,313,Hazelnut Liqueur
+314,314,Anis
+315,315,Blueberry Schnapps
+316,316,Cloves
+317,317,White Pepper
+318,318,(5-6) Lemons
+319,319,Larger Beer
+320,320,Apricot Brandy
+321,321,Lime Juice
+322,322,Lemon Vodka
+323,323,(30 ml) Lime Juice
+324,324,lemon juice - freshly squeezed
+325,325,(28.35 ml) Raspberry Liqueur
+326,326,Tropical-Fruit Liqueur
+327,327,Banana Schnapps
+328,328,Irish Whiskey
+329,329,Orange-Banana Fruit Punch
+330,330,Anise
+331,331,Apricot Syrup
+332,332,(237 ml) Hot Water
+333,333,Vinegar
+334,334,Orange concentrate
+335,335,Coconut Syrup
+336,336,(15 ml) Demerara Syrup - or Sugar Syrup
+337,337,Tea - Cold brewed Black Tea
+338,338,(21 ml) White Rum
+339,339,Cranberry juice
+340,340,(113 ml) Energy Soda - (Red Bull)
+341,341,(30 ml) Rum
+342,342,Lemon
+343,343,Apricot Liqueur
+344,344,Beers - (Corona)
+345,345,Merlot Red Wine
+346,346,Cider
+347,347,Lime Juice - or Lemon Juice
+348,348,Gin - Butterfly Pea Tea
+349,349,club soda
+350,350,Smirnoff Ice
+351,351,Port
+352,352,Irish whiskey
+353,353,(15 ml) Egg White
+354,354,Eggnog
+355,355,Pears
+356,356,Exotic-Fruit Liqueur
+357,357,Strawberry Ice Cream
+358,358,Honey Whiskey
+359,359,Banana Liqueur
+360,360,Strawberries
+361,361,Fennel
+362,362,Pineapple Slices
+363,363,Pecan Nuts
+364,364,Ginger Ale
+365,365,Raspberry Puree
+366,366,Bitters - Orange
+367,367,Fireball Whiskey
+368,368,Apple Brandy
+369,369,Salt
+370,370,Maraschino Liqueur
+371,371,Cream - (float)
+372,372,Peach Juice
+373,373,Watermelon
+374,374,Raspberries
+375,375,Wormwood
+376,376,Pomegranate Juice
+377,377,Black Cherry Rum
+378,378,Chicken Noodle Soup
+379,379,Vanilla Whisky
+380,380,Gilbey
+381,381,(30 ml) Coconut Cream
+382,382,can
+383,383,Orange Cranberry Juice
+384,384,Tropico Rum
+385,385,Cola - (optional)
+386,386,Hot Milk
+387,387,(21 ml) Coconut Rum
+388,388,Coconut and Passion Fruit Liqueur
+389,389,Draft Beer
+390,390,Pineapple(s)
+391,391,Cocktail Onion
+392,392,Coffee - (black)
+393,393,Mango Vodka
+394,394,Jamaican Rum
+395,395,Guava Nectar
+396,396,rye whiskey
+397,397,Sherry
+398,398,Rosemary
+399,399,(28 ml) Cream
+400,400,water
+401,401,Bacardi Breezer Lime
+402,402,Southern Comfort
+403,403,coffee
+404,404,Scotch Whiskey
+405,405,Licorice Liqueur
+406,406,Arak
+407,407,Passionfruit Syrup
+408,408,Black Rum
+409,409,(30 ml) Peppermint Schnapps
+410,410,Raspberry Schnapps
+411,411,(5-6) Orange(s) - or
+412,412,Sherbet
+413,413,(28 ml) Rum
+414,414,Tuaca citrus liqueur
+415,415,Mint leaves
+416,416,Orange Schnapps
+417,417,bitter liqueur
+418,418,Citrus Tequila
+419,419,Lime Liqueur
+420,420,Cinnamon Syrup
+421,421,Gin
+422,422,Cola
+423,423,Blue Raspberry Vodka
+424,424,Orange Peel
+425,425,(28.35 ml) Vodka
+426,426,Coronita - or another Mexican Beer
+427,427,Mustard
+428,428,Mezcal
+429,429,Nutmeg
+430,430,Strawberry Eclair Ice Cream
+431,431,Demerara Syrup
+432,432,Dragonberry Rum
+433,433,Pink Lemonade
+434,434,Raspberry Vodka
+435,435,Collins Mix
+436,436,(35 ml) Melon Liqueur
+437,437,Hazelnuts - finely chopped
+438,438,Root Beer Schnapps
+439,439,Cake Vodka
+440,440,Aged Tequila
+441,441,Hpnotiq
+442,442,Jalapeno Pepper
+443,443,Cranberry Vodka
+444,444,Grape Juice
+445,445,Sour Apple Schnapps
+446,446,Chocolate Ice Cream
+447,447,Apple Liqueur
+448,448,(28.35 ml) Lemon Juice
+449,449,pineapple juice
+450,450,(30 ml) Lemon Juice
+451,451,Ginger - (grated)
+452,452,Citrus Soda
+453,453,Lemon Peel
+454,454,Strawberry Jello - / Jelly
+455,455,(28.35 ml) Blue Curacao Liqueur
+456,456,Pineapple Voda
+457,457,(28 ml) Tequila
+458,458,Passion-Fruit Puree
+459,459,"bourbon - or rye whiskey, if preferred"
+460,460,Olive
+461,461,Brandy
+462,462,Blended Whiskey
+463,463,Ginger Beer
+464,464,Vodka Premix
+465,465,Mango Rum
+466,466,(28 ml) Lime Juice
+467,467,Green Creme De Menthe
+468,468,Lemon Italian ice
+469,469,Apple Vodka
+470,470,Creme De Menthe
+471,471,Blueberry Cordial
+472,472,Cranberry Soda
+473,473,Energy Soda - (optional)
+474,474,Straw
+475,475,(4500 ml) Watermelon
+476,476,Blue Food Colouring
+477,477,Pina Colada Mix
+478,478,Pumpkin
+479,479,Gomme Syrup
+480,480,Hot Apple Juice
+481,481,Blackberry Brandy
+482,482,Brown Creme De Cacao
+483,483,Peach Nectar
+484,484,Pepper
+485,485,Coffee Liqueur
+486,486,anis
+487,487,Agave Nectar
+488,488,Lemon Iced Tea
+489,489,Creme De Almond
+490,490,(30 ml) Vodka
+491,491,Double Cream
+492,492,Food Colouring - (Black)
+493,493,coconut liqueur
+494,494,honey
+495,495,Cream
+496,496,Lime wedge
+497,497,Dry Ice
+498,498,(60 ml) Coconut Rum
+499,499,Irish Cream
+500,500,cognac
+501,501,Olive Juice
+502,502,Coconut Milk
+503,503,whipped cream
+504,504,Banana Juice
+505,505,Angelica Root
+506,506,Dry Ginger Ale
+507,507,Pineapple Vodka
+508,508,Grenadine syrup
+509,509,(170 ml) Pineapple Juice
+510,510,Ginger Syrup
+511,511,candied ginger - for garnish
+512,512,Blackberry Juice
+513,513,Welch
+514,514,(28 ml) Coconut Rum
+515,515,Tropical Fruit Juice
+516,516,Cranberries
+517,517,ginger Ale
+518,518,Absinthe - to rinse
+519,519,Peach Soda
+520,520,(28 ml) Cranberry Juice
+521,521,Orange Curacao liqueur
+522,522,Silver Pearl Dust
+523,523,Grenadine Syrup
+524,524,Gold Tequila
+525,525,Clamato Juice
+526,526,Yeast
+527,527,Pineapple Syrup
+528,528,Hot Sauce
+529,529,Prune Juice
+530,530,Half-and-half
+531,531,(21 ml) Triple Sec
+532,532,Melon Liqueur
+533,533,Beef Bouillon
+534,534,Lime - Garnish
+535,535,Strega
+536,536,Apple Soda
+537,537,Mint Chocolate Ice Cream
+538,538,Glycerine
+539,539,Hot Coffee
+540,540,Ice
+541,541,Advocaat Liqueur
+542,542,Stout Beer
+543,543,Banana Nectar
+544,544,mint
+545,545,Black Sambuca
+546,546,Apple Slices
+547,547,Root Beer
+548,548,American Whiskey
+549,549,Peanuts
+550,550,Mandarin Vodka
+551,551,cream
+552,552,Marshmallows
+553,553,Strawberry Juice
+554,554,Elderflower Cordial
+555,555,Apple Rum
+556,556,Orange Bitters
+557,557,Tennessee Whiskey
+558,558,Energy Soda - (Red Bull)
+559,559,Nutella
+560,560,ice cubes
+561,561,Champagne -
+562,562,Brandy - (Pisco)
+563,563,Hard Cider
+564,564,seasonal fruit - (recommended
+565,565,Black Rum - or
+566,566,Icewine
+567,567,(177 ml) Triple Sec
+568,568,Cappuccino
+569,569,Rum Cream Liqueur
+570,570,Sugar Syrup
+571,571,Coffee Brandy
+572,572,Yellow Food Colouring
+573,573,Peach Vodka
+574,574,Superfine Sugar
+575,575,Mango Liqueur
+576,576,Lemon-Lime Soda
+577,577,white rum
+578,578,orange juice
+579,579,White Sambuca
+580,580,Coconut Shredded
+581,581,(14.17 ml) Vodka
+582,582,Grape Vodka
+583,583,Coffee Vodka
+584,584,Chocolate Sauce
+585,585,Yoghurt
+586,586,Red Sparkling Wine
+587,587,Vanilla Syrup
+588,588,Sugar Syrup - Vanilla
+589,589,Raspberry Iced Tea soda
+590,590,Orange wedge
+591,591,Whisky Sour Mix
+592,592,Tropical-Fruit Schnapps
+593,593,Ojen Anise Liqueur
+594,594,(15 ml) Sugar Syrup
+595,595,Blood-orange juice
+596,596,OP Rum
+597,597,Grain Alcohol
+598,598,Strawberry Cordial
+599,599,Mashed Bananas
+600,600,Hot Water
+601,601,Creme De Frambois
+602,602,Woodruff
+603,603,(21 ml) Vodka
+604,604,Giner Ale
+605,605,(30 ml) Pineapple Juice
+606,606,Madeira
+607,607,Grape Soda
+608,608,raspberries
+609,609,Chilli
+610,610,Kiwi Fruit Liqueur
+611,611,Strawberry-Kiwi Juice
+612,612,Apple Cider
+613,613,Lemonade - (Sprite)
+614,614,Lemon Slices - For Garnish (optional)
+615,615,Vodka - (Alcoholic version)
+616,616,Cinnamon
+617,617,Blood Orange Juice
+618,618,Bread
+619,619,Gold Rum
+620,620,Caramel Liqueur
+621,621,Chocolate sauce - optional for serving
+622,622,Orange Vodka
+623,623,Rye Whiskey
+624,624,Light Cream
+625,625,(500 ml) White Rum - or
+626,626,(15 ml) Simple Syrup
+627,627,White Port
+628,628,Vanilla Schnapps
+629,629,Starfruits
+630,630,Benedictine Herbal Liqueur
+631,631,(60 ml) Pineapple Juice
+632,632,Brandy - Cognac
+633,633,Strawberry-Banana Nectar
+634,634,Watermelon Vodka
+635,635,Blueberry Soda
+636,636,Luxardo Maraschino
+637,637,Vanilla
+638,638,gin
+639,639,Cranberry Juice
+640,640,Lime Wheel
+641,641,Coconut Ice Cream
+642,642,Canadian Whisky
+643,643,(30 ml) Gin
+644,644,Cayenne Pepper(s)
+645,645,Food Colouring - Eye Colour (Blue)
+646,646,cream of coconut
+647,647,Egg White
+648,648,Apricot Juice
+649,649,(1 packet) Jelly / Jello
+650,650,dashes hot pepper sauce
+651,651,Lime Schnapps
+652,652,Anise Extract
+653,653,Benedictine
+654,654,Blue Cheese
+655,655,Pink Grapefruit Juice
+656,656,Unflavoured Gelatin
+657,657,Apricot Brandy Liqueur
+658,658,Creme De Bananes
+659,659,Lemon Soda
+660,660,Spiced Rum
+661,661,Melon Vodka
+662,662,(30 ml) White Rum
+663,663,Coconut Water
+664,664,White Creme De Cacao
+665,665,Lemon wedges
+666,666,Vodka
+667,667,Mint Choc-Chip Ice Cream
+668,668,Pear
+669,669,Chocolate topping
+670,670,(30 ml) Soda Water
+671,671,Pomegranate syrup
+672,672,Jamaican Rum Cream
+673,673,(35 ml) Coconut Rum
+674,674,Mango Soda
+675,675,Cantaloupe
+676,676,Bristow Gin
+677,677,Grapefruit Juice
+678,678,Pear Liqueur
+679,679,Citrus Liqueur
+680,680,(21.26 ml) Pineapple Vodka
+681,681,Mango
+682,682,Kiwi Fruit Juice
+683,683,Dill
+684,684,Orange Sherbet
+685,685,Lime Wedge
+686,686,Anise Liqueur
+687,687,Cactus fruit Juice
+688,688,Lemon Rum
+689,689,Apple
+690,690,Passion Fruit - Garnish
+691,691,Creme De Cacao
+692,692,(28.35 ml) Grenadine Syrup -
+693,693,Lemon Sherbet
+694,694,Passion Fruit
+695,695,Beer Ale
+696,696,White Vermouth
+697,697,Strawberry Brandy
+698,698,Peanut Liqueur
+699,699,Blackcurrant Cordial
+700,700,Apple(s)
+701,701,Organic Cola
+702,702,Watermelon Juice
+703,703,Egg
+704,704,Bison Grass Vodka
+705,705,(21 ml) Lime Juice
+706,706,Rum
+707,707,Cherry Cider Soda
+708,708,(85.05 ml) Pineapple Juice
+709,709,Blueberry Juice
+710,710,Pineapple - Wedge
+711,711,Gatorade Citrus
+712,712,orange slices
+713,713,Peach Sherbet
+714,714,Worcestershire Sauce
+715,715,Edible flowers - Garnish
+716,716,Raspberry Ice Cream
+717,717,Blood Orange Soda
+718,718,(28 ml) Gin
+719,719,Cherry punch
+720,720,Muscatel wine
+721,721,lemon juice
+722,722,Orange peach-mango juice
+723,723,Cream Soda
+724,724,Hot Cocoa
+725,725,Syrup
+726,726,Black Peppers
+727,727,Lime Peel
+728,728,sugar
+729,729,Food Colouring - (Red)
+730,730,Cherry Vodka
+731,731,orange - Slices
+732,732,Blackcurrant Vodka
+733,733,Grapefruit Vodka
+734,734,cherries - Garnish
+735,735,Tamarillo
+736,736,Apple Juice
+737,737,Blackcurrant(s)
+738,738,(500 ml) Hot Water
+739,739,lemon
+740,740,Mint
+741,741,Coconut puree
+742,742,Sweet and Sour
+743,743,Corn Syrup
+744,744,Strawberry Wine
+745,745,Cranberry-Raspberry juice
+746,746,Mandarin Juice
+747,747,Orange Curacao Liqueur
+748,748,(30 ml) Creme De Cacao
+749,749,Maraschino Cherry
+750,750,(28 ml) Melon Liqueur
+751,751,Walnut Liqueur
+752,752,Ginger
+753,753,Tropical Blue liqueur
+754,754,Cucumber Wheels
+755,755,Margarita Mix
+756,756,Chocolate Liqueur
+757,757,Absinthe Herbal Liqueur
+758,758,(14 ml) Sours
+759,759,Lime juice
+760,760,Vanilla Cola
+761,761,twist
+762,762,Strawberry Liqueur
+763,763,black pepper
+764,764,Peychaud’s bitters
+765,765,Rainbow Sherbert
+766,766,(85 ml) Ginger Beer
+767,767,151 Rum
+768,768,Ginger - ground
+769,769,Mixed Spice
+770,770,(177 ml) Tequila
+771,771,Cornstarch
+772,772,Frozen Blueberries
+773,773,Lemon Gin
+774,774,Bannana(s)
+775,775,Sugar Syrup - Thick and red.
+776,776,Berry Juice
+777,777,Condensed Milk
+778,778,Mint Liqueur
+779,779,Kool-Aid
+780,780,Ginger beer
+781,781,Wilderberry Schnapps
+782,782,Creme de Mure
+783,783,Mace
+784,784,Mango Juice
+785,785,Lemon Juice
+786,786,Amarula Cream Liqueur
+787,787,(60 ml) Aperol
+788,788,Lamb
+789,789,Lime - Wedge
+790,790,Almond Liqueur
+791,791,(57 ml) Vodka
+792,792,Distilled Water
+793,793,Chardonnay
+794,794,(21.26 ml) Raspberry Vodka
+795,795,Banana(s)
+796,796,Llemon-Lime Powder
+797,797,Raspberry Soda
+798,798,Cranberry and Strawberry Juice
+799,799,Plums
+800,800,Pineapple Juice
+801,801,Premix - Vodka Black Ice
+802,802,Pine-Orange-Banana Juice
+803,803,cold water
+804,804,Coconut Cream
+805,805,Butterscotch Schnapps
+806,806,Peppermint Liqueur
+807,807,Passion Fruit Juice
+808,808,Strawberry Puree
+809,809,Mandarin Liqueur
+810,810,Raspberry Liqueur
+811,811,blackberries
+812,812,(170.1 ml) Cream - or
+813,813,Black Cherry Ice Cream
+814,814,Coffee Beans
+815,815,(15 ml) Green Chartreuse
+816,816,Tomato juice
+817,817,Coconut
+818,818,Celery Salt
+819,819,Lime Syrup
+820,820,Blue Curacao
+821,821,(14 ml) Raspberry Liqueur
+822,822,Fruit Punch
+823,823,(30 ml) Dark Rum
+824,824,White Chocolate Liqueur
+825,825,Redcurrant juice
+826,826,Strawberry Daiquiri Mix
+827,827,Blueberries
+828,828,Orange Rum
+829,829,Mint Extract
+830,830,Gummi Bears
+831,831,Shot(s)
+832,832,Cherries
+833,833,Apple - Sliced
+834,834,Raspberry Rum
+835,835,Peychaud's Bitters
+836,836,Coconut Rum
+837,837,Pomegranate Liqueur
+838,838,Ground peppers
+839,839,Celery stalk
+840,840,Canadian Berry
+841,841,Plum Brandy
+842,842,Chocolate Cream Liqueur
+843,843,Fruit Juice
+844,844,Grape Schnapps
+845,845,Cinnamon Stick
+846,846,Coffee
+847,847,Caster Sugar
+848,848,Steak Sauce
+849,849,vodka
+850,850,(14 ml) Pineapple Juice
+851,851,Orange Liqueur
+852,852,Worcestershire sauce
+853,853,Cachaca
+854,854,Ginger Brandy
+855,855,Cracked Ice
+856,856,Sweet &amp; Sour Mix
+857,857,lemon twist
+858,858,White Wine
+859,859,bottle Smirnoff Ice
+860,860,(56.7 ml) Irish Cream
+861,861,West Coast Cooler
+862,862,Chili Powder
+863,863,Moscato
+864,864,Melon
+865,865,Black Raspberry Liqueur
+866,866,Amber Rum
+867,867,Orange Juice Concentrate
+868,868,Demerara Sugar
+869,869,Sweet Vermouth
+870,870,Cranberry Schnapps
+871,871,horseradish
+872,872,Licorice
+873,873,(43 ml) Brandy
+874,874,Chocolate Milk
+875,875,Cinnamon Whiskey
+876,876,Hpnotiq Harmonie
+877,877,Oreo Chocolate Cookies
+878,878,Brandy - or Rye
+879,879,Coconut Liqueur
+880,880,Lemon - Twist
+881,881,Birch beer
+882,882,Cinnamon Vodka
+883,883,Dry White Wine
+884,884,Peppermint Schnapps - or Liqueur
+885,885,Creme De Cassis
+886,886,White Tequila
+887,887,lime juice - freshly squeezed
+888,888,Cinnamon Liqueur
+889,889,Campari
+890,890,Red Wine
+891,891,Watermelon-Cherry Cordial
+892,892,Grapefruit
+893,893,Kumquat
+894,894,Cocoa Cream
+895,895,(43 ml) Jager Herbal Liqueur
+896,896,Lemonade - (optional)
+897,897,Kiwi Fruit
+898,898,Apricot
+899,899,Evaporated Milk
+900,900,Bailey’s Irish Cream
+901,901,Mixed Berries
+902,902,Hot Chocolate
+903,903,Cinnamon Schnapps
+904,904,(14 ml) Sugar Syrup
+905,905,.5
+906,906,Bitter Beer
+907,907,Chai Tea
+908,908,Ice cubes
+909,909,Sugar - Red or
+910,910,Apple Sauce
+911,911,Irish cream liqueur
+912,912,Sparkling White Wine
+913,913,Smirnoff Ice Triple Black
+914,914,Apple Schnapps
+915,915,Pepper Vodka
+916,916,Coffee Ice Cream
+917,917,Peach Papaya Juice
+918,918,Soda water
+919,919,Onion
+920,920,Lemon twist or olives for garnish
+921,921,Lychee Soda
+922,922,(28 ml) Vodka
+923,923,Caraway Liqueur
+924,924,Blueberry
+925,925,Strawberry Margarita Mix
+926,926,Cherry Juice
+927,927,Chocolate eclair ice cream bar
+928,928,Peach Schnapps
+929,929,Food Colouring
+930,930,Strawberry Vodka
+931,931,Chocolate Mint
+932,932,Cherry Liqueur
+933,933,Vitamin C
+934,934,Honey Syrup
+935,935,Aquavit
+936,936,(14.17 ml) Triple Sec
+937,937,Wildberry Schnapps
+938,938,Dark Rum
+939,939,Cold Coffee
+940,940,Herbal Liqueur
+941,941,(21 ml) Campari
+942,942,Gingerbread men - (Garnish)
+943,943,Whipped Cream Vodka
+944,944,(57 ml) Jager Herbal Liqueur
+945,945,(22.5 ml) Sugar Syrup
+946,946,Citrus Vodka
+947,947,Cloudberry Liqueur
+948,948,Blueberry Vodka
+949,949,Crackers
+950,950,Hazelnuts
+951,951,Blueberry Syrup
+952,952,(5-6) Lime - or
+953,953,Red Berry Vodka
+954,954,Cinnamon Sugar
+955,955,honey syrup
+956,956,Orgeat Syrup
+957,957,Cinnamon Schnapps - Spicy
+958,958,Sarsaparilla
+959,959,Energy Soda - Red Bull
+960,960,Orange(s) - for Garnish
+961,961,Ice Cubes
+962,962,Almond Syrup
+963,963,Blue Curacao Liqueur
+964,964,Celery
+965,965,(90 ml) Pineapple Juice
+966,966,Rice Wine
+967,967,Bacardi Breezer Orange
+968,968,(45 ml) Gin
+969,969,
+970,970,Papaya Juice
+971,971,Sambuca
+972,972,Silver Tequila
+973,973,Tequila - or
+974,974,Peach Brandy
+975,975,Forbidden Fruit liqueur
+976,976,Bourbon Whiskey
+977,977,Raspberry Juice
+978,978,Fruit juice
+979,979,(21 ml) Green Chartreuse
+980,980,Raspberry Yoghurt
+981,981,Creme De Cacao - (Dark)
+982,982,Peppermint and Hot Cinnamon Schnapps
+983,983,(1 ml) Vodka
+984,984,Mixed Fruit
+985,985,Mint Schnapps
+986,986,Energy Soda

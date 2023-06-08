@@ -29,7 +29,7 @@ def preprocess_input(input):
     input_word = vectorizer.transform(input_word)
     return input_word
 
-def recommend_ctl():
+def recommend_ctl(x):
 
     # Import all variables from CSV
     df_ctl_text = pd.read_csv('./CSVs/df_ctl_text.csv', sep=',')
@@ -74,8 +74,8 @@ def recommend_ctl():
     final_model.fit(X.values,y.values)
 
     #  Run the model
-    user_input = st.text_input('Please describe what cocktail you would enjoy drinking!')
-    st.write(f"We'll do our best to propose cocktails corresponding to '{user_input}'.")
+    # user_input = st.text_input('Please describe what cocktail you would enjoy drinking!')
+    # st.write(f"We'll do our best to propose cocktails corresponding to '{user_input}'.")
     
     input_vector = preprocess_input(user_input)
 
@@ -86,7 +86,7 @@ def recommend_ctl():
     st.write("Recommended cocktails:")
 
     results_df = results_df.iloc[similar_cocktails]
-    return results_df
+    st.write(results_df)
 
 
 ####################################################################################################
@@ -102,8 +102,14 @@ image = Image.open('bg_streamlit_app.jpg')
 st.image(image) 
 
 
-if st.button('Run recommender'):
-    recommend_ctl()
+with st.form(key='cocktail_form'):
+    # User input
+    user_input = st.text_input('Please describe what cocktail you would enjoy drinking!', key='user_input')
+    submit_button = st.form_submit_button(label='Submit')
+
+    if submit_button and user_input:
+        st.write(f"We'll do our best to propose cocktails corresponding to '{user_input}'.")
+        recommend_ctl(user_input)
 
 
 # prev_qry = ""

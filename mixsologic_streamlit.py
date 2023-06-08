@@ -86,7 +86,7 @@ def recommend_ctl(x):
     st.write("Recommended cocktails:")
 
     results_df = results_df.iloc[similar_cocktails]
-    st.write(results_df)
+    st.dataframe(results_df)
 
 
 ####################################################################################################
@@ -111,8 +111,3 @@ with st.form(key='cocktail_form'):
         st.write(f"We'll do our best to propose cocktails corresponding to '{user_input}'.")
         recommend_ctl(user_input)
 
-
-# prev_qry = ""
-# user_query = st.text_input(label="Enter query")
-# if st.button('Search') or (prev_qry != user_query):
-#     prev_qry = user_query

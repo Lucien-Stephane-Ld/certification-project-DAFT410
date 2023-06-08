@@ -18,10 +18,10 @@ EXISTING DATASET :
 - https://www.kaggle.com/datasets/shuyangli94/cocktails-hotaling-co (cocktail recipde dataset - 600 cocktails)  
 
 TO WEB SCRAPP :  
-- https://www.drinklab.org/cocktail-recipes/  (cocktail recipde sebwite - 10 000 cocktails)
+- https://www.drinklab.org/cocktail-recipes/  (cocktail recipde sebwite - 5000 cocktails)
 
 Concat both dataset, dropping redundant ?  
-Keep just the 10 000 recipes dataset.  
+Keep just the 5000 recipes dataset.  
 
 ### Pipeline:  
 * ETL data
@@ -29,12 +29,6 @@ Keep just the 10 000 recipes dataset.
 * Manage user input :  make a list of ingredients to select from ?
 * Manage output : what appears & what format.  
 * Integrate into Streamlit  
-
-
-
-#### Recommender = Clusters
-#### Classifier = categories
-#### Score/Number output = Regression
 
 
 

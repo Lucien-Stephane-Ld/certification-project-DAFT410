@@ -21,7 +21,6 @@ from sklearn.neighbors import NearestNeighbors
 
 vectorizer = CountVectorizer(stop_words='english')
 
-
 def preprocess_input(input):
     input = input.lower()
     # input = re.sub("[0-9]", "",input)

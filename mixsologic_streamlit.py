@@ -94,8 +94,8 @@ def recommend_ctl(x):
 
 
 ####### Title 
-st.title('Mix So Logic')
-st.header('Cocktail recipe recommender for the recreational cocktail maker!')
+# st.title('Mix So Logic')
+# st.header('Cocktail recipe recommender for the recreational cocktail maker!')
 
 ##### Image #########
 image = Image.open('bg_streamlit_app.jpg')

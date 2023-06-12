@@ -1,1 +1,6 @@
 scikit-learn==0.24.2
+streamlit
+Pillow
+pandas
+numpy
+nltk

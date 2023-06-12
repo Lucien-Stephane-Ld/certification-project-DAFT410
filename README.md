@@ -15,11 +15,11 @@
 
 ____________________________________________________________________________________________________________________________________________
 
-Example = https://www.cocktailbuilder.com/  
+**STREAMLIT APP** = https://lucien-stephane-ld-certification-pr-mixsologic-streamlit-y2y0zv.streamlit.app/  
 
 PRESENTATION:  
-https://www.youtube.com/watch?v=oavMtUWDBTM
-or
+https://www.youtube.com/watch?v=oavMtUWDBTM  
+or  
 https://docs.google.com/presentation/d/1Nr_emFzK_zh6zJKIxoOjKIb0TpJ4sgzvl5XIIQhuW9E/edit?usp=sharing
  
 HOW TO LINKS:  
@@ -27,6 +27,8 @@ HOW TO LINKS:
 - https://github.com/luongtruong77/nlp-drinks-cocktails-recommender (github)  
 - https://github.com/luongtruong77/nlp-drinks-cocktails-recommender/tree/main/notebooks (notebooks)  
 - https://lvngd.com/blog/building-cocktail-recommender-python/ (using node graph)
+
+Example = https://www.cocktailbuilder.com/  
 
 EXISTING DATASET :  
 - https://www.kaggle.com/datasets/shuyangli94/cocktails-hotaling-co (cocktail recipde dataset - 600 cocktails)  

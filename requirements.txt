@@ -1,6 +1,6 @@
-scikit-learn==3.8.1
+scikit-learn==1.2.2
 streamlit
 Pillow
 pandas
 numpy
-nltk
+nltk==3.8.1

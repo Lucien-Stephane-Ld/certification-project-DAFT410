@@ -1,4 +1,8 @@
-# Certification-project-DAFT410
+# Certification-project-DAFT410  
+
+
+**STREAMLIT APP** = https://lucien-stephane-ld-certification-pr-mixsologic-streamlit-y2y0zv.streamlit.app/  
+
 
 *Mixology is defined as "the skills to mix cocktails and drinks". My proposed algorythm recommends to users one or more cocktail recipe according to the ingredients you like, and those you have in your home. From there on, the user will acquier a deeper comprehension and can evolve into more complexe cocktails!*  
 
@@ -14,8 +18,6 @@
 * ml_model_1B = ML backup file, working, not used.
 
 ____________________________________________________________________________________________________________________________________________
-
-**STREAMLIT APP** = https://lucien-stephane-ld-certification-pr-mixsologic-streamlit-y2y0zv.streamlit.app/  
 
 PRESENTATION:  
 https://www.youtube.com/watch?v=oavMtUWDBTM  

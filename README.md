@@ -19,6 +19,8 @@ Example = https://www.cocktailbuilder.com/
 
 PRESENTATION:  
 https://www.youtube.com/watch?v=oavMtUWDBTM
+or
+https://docs.google.com/presentation/d/1Nr_emFzK_zh6zJKIxoOjKIb0TpJ4sgzvl5XIIQhuW9E/edit?usp=sharing
  
 HOW TO LINKS:  
 - https://medium.com/@AI_Whisperer/how-i-made-a-cocktail-recommendation-app-using-machine-learning-with-python-streamlit-airtable-9e60dc054dc (project)  
